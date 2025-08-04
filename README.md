@@ -26,7 +26,7 @@
 ![Espressif](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
 ## About Me
-Hello there! (General Kenobi...) I am a current WPI undergrad who enjoys the complex problem solving and constant change that robotics brings. My projects utilize a wide range of tools, from robotics with ROS to web development with React. I am currently learning the Qt/OpenGL graphics framework/library, migrating my robotics projects to ROS2, and making custom sdf/urdf/xacro robot models for use in Gazebo Sim. In my free time I enjoy swimming, longboarding, playing bass guitar, and working on the Turtlebot2 I recently aquired.
+Hello there! (General Kenobi...) I am a current WPI undergrad who enjoys the complex problem solving and constant change that robotics brings. My projects utilize a wide range of tools, from robotics with ROS to web development with React. I am currently learning the Qt graphics framework, migrating my robotics projects to ROS2, and making custom sdf/urdf/xacro robot models for use in Gazebo Sim. In my free time I enjoy swimming, longboarding, playing bass guitar, and working on the Turtlebot2 I recently aquired.
 
 <!---
 kmhswimgirl/kmhswimgirl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
