@@ -26,7 +26,7 @@
 ![Espressif](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
 ## About Me
-- WPI Robotics Engineering (B.S. 2026| maybe M.S. 2027?)
+- WPI Robotics Engineering B.S. 2026, M.S. 2027
 - I <3 turtlebots and like making tools for maniging fleets of them
 - Former swimmer + lacrosse player
 
