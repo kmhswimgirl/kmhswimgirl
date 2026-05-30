@@ -30,6 +30,9 @@
 - I <3 turtlebots and like making tools for maniging fleets of them
 - Former swimmer + lacrosse player
 
+## Current Projects
+- localizing a robot using relative heading of objects only
+- learning Nim and remaking my website using it
 <!---
 kmhswimgirl/kmhswimgirl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
