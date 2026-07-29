@@ -1,4 +1,4 @@
-# *✧･ﾟ: *✧･ﾟ kmhswimgirl *✧･ﾟ: *✧･ﾟ:
+# ☆ kymadogg ☆
 Robotics Engineer | Digital Artist | Hobbyist PCB Designer | Power Wheels Modder | Grad Student @ WPI
 ### My Favorites:
 <div class="image-container">
