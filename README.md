@@ -32,6 +32,11 @@ Robotics Engineer | Digital Artist | Hobbyist PCB Designer | Power Wheels Modder
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"  width="50" height="50"/>   
 </div>
 
+
+#### ☆ sounds i code to ☆
+<a href="https://open.spotify.com/playlist/2PPYEElvbATxQevhfQS0p6?si=ac6547ef09474753"><img src="github_spotify.png" width="150" alt="sounds i code to" valign="middle"></a>
+
+
 <!---
 kmhswimgirl/kmhswimgirl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
