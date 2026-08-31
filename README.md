@@ -35,7 +35,10 @@ Robotics Engineer | Digital Artist | Hobbyist PCB Designer | Power Wheels Modder
 
 #### ☆ sounds i write code to ☆
 <a href="https://open.spotify.com/playlist/2PPYEElvbATxQevhfQS0p6?si=ac6547ef09474753"><img src="github_spotify.png" width="150" alt="sounds i code to" valign="middle"></a>
-
+<!--
+### Current Projects
+Slowpoke, A minimal TurtleBot3 based navigation stack.
+-->
 
 <!---
 kmhswimgirl/kmhswimgirl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
